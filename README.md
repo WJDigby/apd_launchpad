@@ -62,5 +62,4 @@ Organizatoinal unit for certificate. Optional.
 Email address for cerificate. Optional.
 
 -v, --verbose
-
 Show verbose output.
